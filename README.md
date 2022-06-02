@@ -17,6 +17,6 @@
  <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   </div><br/>
   
-  Apaxionado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 
 
